@@ -1,8 +1,8 @@
 module.exports = {
-  // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '78fc5a4b88d74b0e824e29407e9f1ec1',
-
-  // if you want to restrict pages to a single notion workspace (optional)
+  // where it all starts -- the site's root Notion page (required)  78fc5a4b88d74b0e824e29407e9f1ec1
+  rootNotionPageId: '4f8e07bed170475195d669adae16f81c',
+  
+  // if  want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
@@ -28,14 +28,14 @@ module.exports = {
   defaultPageCoverPosition: 0.5,
 
   // image CDN host to proxy all image requests through (optional)
-  // NOTE: this requires you to set up an external image proxy
+  // NOTE: this requires  to set up an external image proxy
   imageCDNHost: null,
 
   // Utteranc.es comments via GitHub issue comments (optional)
   utterancesGitHubRepo: null,
 
   // whether or not to enable support for LQIP preview images (optional)
-  // NOTE: this requires you to set up Google Firebase and add the environment
+  // NOTE: this requires  to set up Google Firebase and add the environment
   // variables specified in .env.example
   isPreviewImageSupportEnabled: false,
 
