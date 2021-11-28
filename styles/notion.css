@@ -109,10 +109,10 @@
   }
 }
 
-.notion-quote {
+/**.notion-quote {
   padding: 0.2em 0.75em;
   font-size: 1.1em;
-}
+}*/
 
 .notion-h1,
 .notion-h2,
@@ -318,7 +318,7 @@
   border-radius: 16px;
 }
 
-/* if you don't want rounded page images, remove this */
+/* if  don't want rounded page images, remove this */
 .notion-page-icon-wrapper img.notion-page-icon {
   border-radius: 50%;
   box-shadow: 0 8px 40px 0 rgb(0 0 0 / 21%);
