@@ -17,7 +17,7 @@ module.exports = {
   socialImageSubtitle: 'Haikal Rahman',
 
   // social usernames (optional)
-  twitter: 'hhaikalrahman',
+  twitter: '',
   github: 'haikalmyid',
   linkedin: 'haikalrahman70',
 
